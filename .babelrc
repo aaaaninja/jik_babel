@@ -4,5 +4,6 @@
     , { "proposal": "fsharp" }
     ]
   , [ "@babel/plugin-proposal-partial-application" ]
+  , [ "@babel/plugin-proposal-optional-chaining" ]
   ]
 }
