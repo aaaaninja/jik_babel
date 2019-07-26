@@ -1,8 +1,6 @@
 {
   "plugins": [
-    [ "@babel/plugin-proposal-pipeline-operator"
-    , { "proposal": "fsharp" }
-    ]
+    [ "@babel/plugin-proposal-pipeline-operator", { "proposal": "fsharp" } ]
   , [ "@babel/plugin-proposal-partial-application" ]
   , [ "@babel/plugin-proposal-optional-chaining" ]
   ]
